@@ -1,1 +1,5 @@
-# coming
+PS1="\n==== \t ====\n\u@\h:\w > "
+
+alias ll='ls -lahF'
+alias tree1='tree -L 1'
+alias tree2='tree -L 2'
