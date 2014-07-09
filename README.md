@@ -1,0 +1,4 @@
+- clone into home directory
+- ln -s dotfiles/vimrc .vimrc
+- ln -s dotfiles/.vim/ .vim
+- ln -s dotfiles/.bash_login .bash_login
