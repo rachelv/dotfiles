@@ -9,7 +9,7 @@ autocmd BufNewFile,BufRead *.less set filetype=less
 autocmd BufNewFile,BufRead *.mobile.erb let b:eruby_subtype='html'
 autocmd BufNewFile,BufRead *.mobile.erb set filetype=eruby
 
-set guifont=Inconsolata-dz:h12
+set guifont=Inconsolata-dz:h14
 
 set autoindent
 set smartindent
