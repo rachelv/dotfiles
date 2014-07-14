@@ -5,3 +5,5 @@ alias tree1='tree -L 1'
 alias tree2='tree -L 2'
 
 export CLICOLOR=1
+# with iterm2 tungsten bg
+export LSCOLORS="gxGxFxdxbxDxDxBxBxExEx"
