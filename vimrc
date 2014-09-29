@@ -26,5 +26,6 @@ set softtabstop=4
 set tabstop=4
 
 autocmd FileType ruby setlocal shiftwidth=2 tabstop=2 softtabstop=2
+autocmd FileType scala setlocal shiftwidth=2 tabstop=2 softtabstop=2
 
 set ff=unix
