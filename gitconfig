@@ -1,0 +1,7 @@
+[user]
+  name = Rachel Vecchitto 
+  email = rachel@magnetbox.org 
+[alias]
+  co = checkout
+  ci = commit
+  st = status
