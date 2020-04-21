@@ -1,4 +1,4 @@
-clone into home directory:
+Clone into home directory and run:
 
 ```
 ln -s dotfiles/vimrc .vimrc
