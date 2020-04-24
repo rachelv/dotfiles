@@ -2,7 +2,7 @@
 export GITAWAREPROMPT=~/.bash/git-aware-prompt
 source "${GITAWAREPROMPT}/main.sh"
 
-PS1="\n==== [\h] \t ====\n\u \w\$git_branch > "
+PS1="\n==== [\h] \t ====\n\u \$git_branch:\w > "
 
 alias ll='ls -lahF'
 
