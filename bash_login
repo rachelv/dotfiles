@@ -7,3 +7,5 @@ PS1="\n==== [\h] \t ====\n\u \$git_branch:\w > "
 alias ll='ls -lahF'
 
 export CLICOLOR=1
+
+export PATH="/usr/local/opt/mysql-client/bin:$PATH"
