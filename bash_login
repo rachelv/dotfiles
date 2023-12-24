@@ -10,4 +10,4 @@ alias ll='ls -lahF'
 
 export CLICOLOR=1
 
-export PATH="/usr/local/sbin:/usr/local/opt/mysql-client/bin:$HOME/.composer/vendor/bin:$PATH"
+export PATH="/opt/homebrew/bin:/usr/local/sbin:/usr/local/opt/mysql-client/bin:$HOME/.composer/vendor/bin:$PATH"
