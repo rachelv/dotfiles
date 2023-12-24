@@ -2,10 +2,12 @@
 export GITAWAREPROMPT=~/.bash/git-aware-prompt
 source "${GITAWAREPROMPT}/main.sh"
 
+source /usr/local/etc/bash_completion.d/git-completion.bash
+
 PS1="\n==== [\h] \t ====\n\u \$git_branch:\w > "
 
 alias ll='ls -lahF'
 
 export CLICOLOR=1
 
-export PATH="/usr/local/opt/mysql-client/bin:$PATH"
+export PATH="/usr/local/sbin:/usr/local/opt/mysql-client/bin:$HOME/.composer/vendor/bin:$PATH"

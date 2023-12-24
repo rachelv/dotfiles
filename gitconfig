@@ -5,3 +5,5 @@
   co = checkout
   ci = commit
   st = status
+[init]
+  defaultBranch = main
