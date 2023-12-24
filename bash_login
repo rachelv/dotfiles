@@ -9,7 +9,3 @@ alias ll='ls -lahF'
 export CLICOLOR=1
 
 export PATH="/usr/local/opt/mysql-client/bin:$PATH"
-
-if [ -f ~/Projects/checkin-web/scripts/.bashrc_local ]; then
-  . ~/Projects/checkin-web/scripts/.bashrc_local
-fi
